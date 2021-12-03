@@ -26,4 +26,4 @@ Here is an example of all 5 fields being filtered on.
   
   * Further development may include field masks and/or dynamic picklists to help the user know what data is available.  For example the date field could include a calendar
    option instead of requiring the user to enter the data in the proper date format.  Dynamic picklists could be used to aid the user towards rows that exist.  For instance,
-   if a user entered a specific date, the next city field cold present a picklist of cities that have rows in the database with that date.
+   if a user entered a specific date, the next city field could present a picklist of cities that have rows in the database with that date.
