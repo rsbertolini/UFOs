@@ -3,8 +3,8 @@
 
 ## Overview of Project
 The purpose of this project was to create a web page using html that would accept 5 different field inputs from a user.  A JavaScript listener
-would be monitoring for changes to those fields and send the new inputs to functions written in the JavaScript code that would update the table. 
-As more filter inputs are received the table data is filtered to a greater degree.
+would be monitoring for changes to those fields and send the new inputs to functions written in the JavaScript code that would update the table based
+on a JSON data file.  As more filter inputs are received the table data is filtered to a greater degree.
 
 
 ## Results
