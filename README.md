@@ -10,12 +10,12 @@ As more filter inputs are received the table data is filtered to a greater degre
 ## Results
 To perform a search, you can filter on as few or as many fields as you like.  Entering data in 1 field will immediately prompt the listener
 to send the newly changed data to the updateFilter function and rebuild the table.  
-![Filter1 image](/images/Filter1.PNG)
+![Filter1 image](/static/images/Filter1.PNG)
 
 You can further refine your search by querying for more fields.  As you send more filter criteria, your data will become more refined.
-![Filter2 image](/images/Filter2.PNG)
+![Filter2 image](/static/images/Filter2.PNG)
 
-![Filter3 image](/images/Filter3.PNG)
+![Filter3 image](/static/images/Filter3.PNG)
 
 ## Summary
 The summary addresses one drawback of this webpage (2 pt)
